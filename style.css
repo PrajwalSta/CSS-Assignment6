@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top{
+    background:red;
+    height: 100px;
+    width: 600px;
+    margin-left: 450px;
+    margin-top: 300px;
+    border-radius: 30px;
+}
